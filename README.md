@@ -30,8 +30,14 @@ Main page gives data overview as shown in the attached images. Main target is to
 
 ### Data Overview:
 
+There are over 20,000 messages are related to a distaster.
 ![image](https://github.com/AyaAbulnasr/Disaster-Response-pipeline-Project/blob/main/MSG_Genre_Distribution.png)
 
+News Messages are the highest while social media has the least!
+![image](https://github.com/AyaAbulnasr/Disaster-Response-pipeline-Project/blob/main/MSG_Relation.png)
+
+Messages target Features distributed as the following: 
+![image](https://github.com/AyaAbulnasr/Disaster-Response-pipeline-Project/blob/main/Target_Features_Distribution.png)
 
 
 
