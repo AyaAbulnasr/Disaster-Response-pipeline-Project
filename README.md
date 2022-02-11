@@ -30,7 +30,7 @@ Main page gives data overview as shown in the attached images. Main target is to
 
 ### Data Overview:
 
-MSG_Genre_Distribution.png
+![image](https://github.com/AyaAbulnasr/Disaster-Response-pipeline-Project/blob/main/MSG_Genre_Distribution.png)
 
 
 
