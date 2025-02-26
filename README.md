@@ -2,7 +2,7 @@
 
 ### Introducton
 #### Project Describtion:
-In this Project, I analyzed the attached datasets file contains tweet and messages a real life disaster responses. The aim of the project is to build a Natural Language Processing tool or API that classifies the recieved messages as the following  sample screenshot.
+In this Project, I analyzed the attached datasets file contains tweet and messages a real life disaster responses. The aim of the project is to build a Natural Language Processing (NLP) tool or API that classifies the recieved messages as the following  sample screenshot.
 ![image](https://user-images.githubusercontent.com/80397129/153633555-7c6ee995-e6a4-42d8-a301-d67cc3503d37.png)
 
 ### Preprocessing
